@@ -1,6 +1,6 @@
 {
   "name": "web3-contract-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Web3 contract loader for Webpack",
   "main": "index.js",
   "scripts": {
